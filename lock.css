@@ -1,0 +1,20 @@
+.sea{
+  display: flex;
+  gap: 10px; 
+  height: 300px;
+  width: 100%;
+}
+.bee{
+height: 600px;
+width: 100%;
+color: white;
+}
+body{ background-image: url("https://media.istockphoto.com/id/907604158/photo/asian-water-lily-lotus-in-kerala.jpg?s=2048x2048&w=is&k=20&c=fuKZAVidHSc2mm_JcDUWFdC0WNGJkfvWkPldpjqCfdg="); 
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+a{
+  color: rgb(208, 22, 22);
+  background-color: azure;
+}
