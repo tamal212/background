@@ -19,3 +19,8 @@ a{
   background-color: azure;
   border:1px dotted #ffa502;
 }
+h3{ 
+  border: 5px;
+  border-color: yellow red greenyellow aqua;
+  border-style:dashed;
+}
